@@ -1,0 +1,17 @@
+.intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 3% auto;
+    font-family: 'Jost',
+    sans-serif;
+}
+
+.intro h1 {
+    font-family: 'Square Peg', cursive ;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+    text-shadow: 2px 4px rgba(0, 0, 0, 0.24);
+}
